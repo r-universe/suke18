@@ -1,5 +1,8 @@
 [
   {
     "package": "FEAST"
+  },
+  {
+    "package": "iPath"
   }
 ]

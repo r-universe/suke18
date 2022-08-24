@@ -8,3 +8,8 @@
 	url = https://github.com/suke18/feast
 	shallow = true
 	registered = true
+[submodule "iPath"]
+	path = iPath
+	url = https://github.com/suke18/ipath
+	shallow = true
+	registered = true
