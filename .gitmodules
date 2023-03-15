@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "FEAST"]
-	path = FEAST
-	url = https://github.com/suke18/feast
-	shallow = true
-	registered = true
 [submodule "iPath"]
 	path = iPath
 	url = https://github.com/suke18/ipath
+	shallow = true
+	registered = true
+[submodule "FEAST"]
+	path = FEAST
+	url = https://github.com/suke18/feast
 	shallow = true
 	registered = true
